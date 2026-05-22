@@ -30,6 +30,7 @@ while True:
 
 conn.close()
 ```
+
 2) Client:
 ```
 import socket
